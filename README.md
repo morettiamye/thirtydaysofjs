@@ -9,6 +9,9 @@ A drumkit written in javascript and CSS.  Pushing the corresponding key triggers
 ### Day Two
 A clock written in javascript and CSS.  All corresponding hands read the computer time to display accurate time of day.
 
+
+### Day Three
+Updating CSS variables using Javascript
 ---
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
 
