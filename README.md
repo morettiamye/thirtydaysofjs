@@ -4,12 +4,10 @@ This repo holds the code for my completion of the 30 Days of Javascript course b
 
 ---
 
-### Day One 
-[JavaScript Drumkit] (http://morettiamye.github.io/30daysofjs/dayone/)
+### [Day One](http://morettiamye.github.io/30daysofjs/dayone/)
 A drumkit written in javascript and CSS.  Pushing the corresponding key triggers the sound file to play.  An added event listener highlights the key pressed, and removes the highlight after the elapsed time.
 
-### Day Two 
-[Javascript Clock] (http://morettiamye.github.io/30daysofjs/daytwo)
+### [Day Two](http://morettiamye.github.io/30daysofjs/daytwo)
 A clock written in javascript and CSS.  All corresponding hands read the computer time to display accurate time of day.
 
 
