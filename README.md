@@ -20,6 +20,9 @@ Array Cardio
 ### [Day Five](http://morettiamye.github.io/thirtydaysofjs/dayfive/index.html)
 Flex Panels Image Gallery
 
+### [Day Six](http://morettiamye.github.io/thirtydaysofjs/daysix/index.html)
+Ajax Type Ahead
+
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
