@@ -29,7 +29,7 @@ Array Cardio Day 2
 Fun With HTML 5 Canvas
 
 ### [Day Nine](http://morettiamye.github.io/thirtydaysofjs/daynine/index.html)
-
+14 Must Know Dev Tool Tricks
 
 
 
