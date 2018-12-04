@@ -10,7 +10,6 @@ Javascript Drumkit
 ### [Day Two](http://morettiamye.github.io/thirtydaysofjs/daytwo/index.html)
 Javascript Clock
 
-
 ### [Day Three](http://morettiamye.github.io/thirtydaysofjs/daythree/index.html)
 Updating CSS variables using Javascript
 
@@ -25,6 +24,14 @@ Ajax Type Ahead
 
 ### [Day Seven](http://morettiamye.github.io/thirtydaysofjs/dayseven/index.html)
 Array Cardio Day 2
+
+### [Day Eight](http://morettiamye.github.io/thirtydaysofjs/dayeight/index.html)
+Fun With HTML 5 Canvas
+
+### [Day Nine](http://morettiamye.github.io/thirtydaysofjs/daynine/index.html)
+
+
+
 
 ---
 
