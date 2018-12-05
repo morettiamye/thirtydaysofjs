@@ -31,7 +31,11 @@ Fun With HTML 5 Canvas
 ### [Day Nine](http://morettiamye.github.io/thirtydaysofjs/daynine/index.html)
 14 Must Know Dev Tool Tricks
 
+### [Day Ten](http://morettiamye.github.io/thirtydaysofjs/dayten/index.html)
+Checking Multiple Checkboxes
 
+### [Day Eleven](http://morettiamye.github.io/thirtydaysofjs/dayeleven/index.html)
+Custom HTML5 Video Player
 
 ---
 
