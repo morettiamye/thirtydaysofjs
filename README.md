@@ -1,6 +1,6 @@
 # 30 Days of Javascript
 
-This repo holds the code for my completion of the 30 Days of Javascript course by Wes Bos.
+30 Days of Javascript course by Wes Bos.
 
 ---
 

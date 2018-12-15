@@ -1,42 +1,71 @@
- // start with strings, numbers and booleans
+// start with strings, numbers and booleans
 
-    // Let's say we have an array
-    const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
+let age = 100;
+let age2 = age;
+console.log(age, age2);
 
-    // and we want to make a copy of it.
+age = 200;
+console.log(age, age2); // Age2 will still be 100
 
-    // You might think we can just do something like this:
+let name = "Wes";
+let name2 = name;
 
-    // however what happens when we update that array?
+console.log(name, name2);
 
-    // now here is the problem!
+name = "Amy";
+console.log(name, name2); // Name2 is still Wes
 
-    // oh no - we have edited the original array too!
 
-    // Why? It's because that is an array reference, not an array copy. They both point to the same array!
+// Let's say we have an array
+const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 
-    // So, how do we fix this? We take a copy instead!
+// and we want to make a copy of it.
+const team = players;
+console.log(team, players);
 
-    // one way
+// You might think we can just do something like this:
+// team[3] = "Lux";
 
-    // or create a new array and concat the old one in
+// however what happens when we update that array?
+// now here is the problem!\
+// oh no - we have edited the original array too!
+// Why? It's because that is an array reference, not an array copy. They both point to the same array!
+// So, how do we fix this? We take a copy instead!
+const team2 = players.slice();
+console.log(team2);
+// one way
 
-    // or use the new ES6 Spread
+// or create a new array and concat the old one in
+const team3 = [].concat(players);
+console.log(team3);
+// or use the new ES6 Spread
+const team4 = [...players];
+console.log(team4)
+// now when we update it, the original one isn't changed
+team4[3] = "Lux";
+console.log(team4);
 
-    // now when we update it, the original one isn't changed
+const team5 = Array.from(players);
+console.log(team5);
+// The same thing goes for objects, let's say we have a person object
 
-    // The same thing goes for objects, let's say we have a person object
+// with Objects
+const person = {
+    name: 'Wes Bos',
+    age: 80
+};
 
-    // with Objects
-    const person = {
-      name: 'Wes Bos',
-      age: 80
-    };
+// and think we make a copy:
+// const captain = person;
+// captain.number = 40;
+// console.log(captain); 
+// how do we take a copy instead?
+const capt2 = Object.assign({}, person, {number: 90});
+console.log(capt2);
 
-    // and think we make a copy:
 
-    // how do we take a copy instead?
+// We will hopefully soon see the object ...spread
+const capt3 = {...person};
+console.log(capt3);
 
-    // We will hopefully soon see the object ...spread
-
-    // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+// Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
