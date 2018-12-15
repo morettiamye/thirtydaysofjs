@@ -12,3 +12,28 @@ function debounce(func, wait = 20, immediate = true) {
       if (callNow) func.apply(context, args);
     };
   }
+
+const sliderImages = document.querySelectorAll(".slide-in");
+
+function checkSlide(e) {
+    // console.log(window.scrollY);
+    // console.log(e);
+    sliderImages.forEach(sliderImage => {
+        // Halfway through Image
+        const slideInAt = (window.scrollY + window.innerHeight) - sliderImage.height / 2;
+        // Bottom of image
+        const imageBottom = sliderImage.offsetTop + sliderImage.height;
+        const isHalfShown = slideInAt > sliderImage.offsetTop;
+        const isnotScrolledPast = window.scrollY < imageBottom;
+        
+        if (isHalfShown && isnotScrolledPast) {
+            sliderImage.classList.add("active"); 
+        } else {
+            sliderImage.classList.remove("active")
+        }
+
+     
+    })
+}
+
+window.addEventListener("scroll", debounce(checkSlide));
