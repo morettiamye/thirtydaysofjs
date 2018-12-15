@@ -40,6 +40,8 @@ Custom HTML5 Video Player
 ### [Day Twleve](http://morettiamye.github.io/thirtydaysofjs/daytwelve/index.html)
 The Konami Code
 
+### [Day Thirteen](http://morettiamye.github.io/thirtydaysofjs/daythirteen/index.html)
+Slide in On Scroll
 
 ---
 
