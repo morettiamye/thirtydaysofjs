@@ -46,6 +46,9 @@ Slide in On Scroll
 ### [Day Fourteen](http://morettiamye.github.io/thirtydaysofjs/dayfourteen/index.html)
 Objects & Arrays - Reference v Copy
 
+### [Day Fifteen](http://morettiamye.github.io/thirtydaysofjs/dayfifteen/index.html)
+Local Storage & Event Delegation
+
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
