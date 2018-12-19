@@ -56,7 +56,7 @@ Text Shadow Mouse Move Effect
 Sort Without Articles
 
 ### [Day Eighteen](http://morettiamye.github.io/thirtydaysofjs/dayeighteen/index.html)
-Sort Without Articles
+Tally String Times with Reduce
 
 ---
 
