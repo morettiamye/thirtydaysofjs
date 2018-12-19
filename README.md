@@ -55,6 +55,8 @@ Text Shadow Mouse Move Effect
 ### [Day Seventeen](http://morettiamye.github.io/thirtydaysofjs/dayseventeen/index.html)
 Sort Without Articles
 
+### [Day Eighteen](http://morettiamye.github.io/thirtydaysofjs/dayeighteen/index.html)
+Sort Without Articles
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
