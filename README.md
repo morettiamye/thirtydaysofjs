@@ -52,6 +52,9 @@ Local Storage & Event Delegation
 ### [Day Sixteen](http://morettiamye.github.io/thirtydaysofjs/daysixteen/index.html)
 Text Shadow Mouse Move Effect
 
+### [Day Seventeen](http://morettiamye.github.io/thirtydaysofjs/dayseventeen/index.html)
+Text Shadow Mouse Move Effect
+
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
