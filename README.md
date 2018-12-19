@@ -1,6 +1,6 @@
 # 30 Days of Javascript
 
-30 Days of Javascript course by Wes Bos.
+30 Days of Javascript course by Wes Bos, completed by me!
 
 ---
 
