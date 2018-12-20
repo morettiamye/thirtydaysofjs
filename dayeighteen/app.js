@@ -1,4 +1,4 @@
-const timeNodes = [...document.querySelectorAll("[data-time")];
+const timeNodes = [...document.querySelectorAll("[data-time]")];
 console.log(timeNodes);
 
 const seconds = timeNodes
