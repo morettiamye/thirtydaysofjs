@@ -58,6 +58,9 @@ Sort Without Articles
 ### [Day Eighteen](http://morettiamye.github.io/thirtydaysofjs/dayeighteen/index.html)
 Tally String Times with Reduce
 
+### [Day Nineteen](http://morettiamye.github.io/thirtydaysofjs/daynineteen/index.html)
+Webcam Fun
+
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
