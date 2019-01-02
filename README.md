@@ -4,31 +4,31 @@
 
 ---
 
-### [Day One](http://morettiamye.github.io/thirtydaysofjs/1/index.html)
+### [Day One](http://morettiamye.github.io/thirtydaysofjs/01/index.html)
 Javascript Drumkit
 
-### [Day Two](http://morettiamye.github.io/thirtydaysofjs/2/index.html)
+### [Day Two](http://morettiamye.github.io/thirtydaysofjs/02/index.html)
 Javascript Clock
 
-### [Day Three](http://morettiamye.github.io/thirtydaysofjs/3index.html)
+### [Day Three](http://morettiamye.github.io/thirtydaysofjs/03/index.html)
 Updating CSS variables using Javascript
 
-### [Day Four](http://morettiamye.github.io/thirtydaysofjs/4/index.html)
+### [Day Four](http://morettiamye.github.io/thirtydaysofjs/04/index.html)
 Array Cardio
 
-### [Day Five](http://morettiamye.github.io/thirtydaysofjs/4/index.html)
+### [Day Five](http://morettiamye.github.io/thirtydaysofjs/05/index.html)
 Flex Panels Image Gallery
 
-### [Day Six](http://morettiamye.github.io/thirtydaysofjs/6/index.html)
+### [Day Six](http://morettiamye.github.io/thirtydaysofjs/06/index.html)
 Ajax Type Ahead
 
-### [Day Seven](http://morettiamye.github.io/thirtydaysofjs/7/index.html)
+### [Day Seven](http://morettiamye.github.io/thirtydaysofjs/07/index.html)
 Array Cardio Day 2
 
-### [Day Eight](http://morettiamye.github.io/thirtydaysofjs/8/index.html)
+### [Day Eight](http://morettiamye.github.io/thirtydaysofjs/08/index.html)
 Fun With HTML 5 Canvas
 
-### [Day Nine](http://morettiamye.github.io/thirtydaysofjs/9/index.html)
+### [Day Nine](http://morettiamye.github.io/thirtydaysofjs/09/index.html)
 14 Must Know Dev Tool Tricks
 
 ### [Day Ten](http://morettiamye.github.io/thirtydaysofjs/10/index.html)
