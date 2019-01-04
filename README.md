@@ -68,10 +68,13 @@ Native Speech Recognition
 
 _Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
 
-### [Day Twenty-One](http://morettiamye.github.io/thirdaydaysofjs/20/index.html)
+### [Day Twenty-One](http://morettiamye.github.io/thirdaydaysofjs/21/index.html)
 Geolocation Based Speedometer and Compass
 
 _Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
+
+### [Day Twenty-Two](http://morettiamye.github.io/thirdaydaysofjs/22/index.html)
+Follow Along Links
 
 ---
 
