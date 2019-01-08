@@ -76,8 +76,12 @@ _Please note: this needs to be cloned to your your computer and then  `npm insta
 ### [Day Twenty-Two](http://morettiamye.github.io/thirdaydaysofjs/22/index.html)
 Follow Along Links
 
-### [Day Twenty-Two](http://morettiamye.github.io/thirdaydaysofjs/23/index.html)
-Speech Synthesizer
+### [Day Twenty-Three](http://morettiamye.github.io/thirdaydaysofjs/23/index.html)
+The Voicienator 5000
+
+### [Day Twenty-Four](http://morettiamye.github.io/thirdaydaysofjs/24/index.html)
+Sticky Nav Bar
+
 
 ---
 
