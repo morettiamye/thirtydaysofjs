@@ -76,6 +76,9 @@ _Please note: this needs to be cloned to your your computer and then  `npm insta
 ### [Day Twenty-Two](http://morettiamye.github.io/thirdaydaysofjs/22/index.html)
 Follow Along Links
 
+### [Day Twenty-Two](http://morettiamye.github.io/thirdaydaysofjs/23/index.html)
+Speech Synthesizer
+
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
