@@ -83,8 +83,9 @@ The Voicienator 5000
 Sticky Nav Bar
 
 ### [Day Twenty-Five](http://morettiamye.github.io/thirtydaysofjs/25/)
----
+Event Capture, Propagation, Bubbling and Once
 
+---
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
 
 
