@@ -63,26 +63,26 @@ Webcam Fun
 
 _Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
 
-### [Day Twenty](http://morettiamye.github.io/thirtydaydaysofjs/20/)
+### [Day Twenty](http://morettiamye.github.io/thirtydaysofjs/20/)
 Native Speech Recognition
 
 _Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
 
-### [Day Twenty-One](http://morettiamye.github.io/thirtydaydaysofjs/21/)
+### [Day Twenty-One](http://morettiamye.github.io/thirtydaysofjs/21/)
 Geolocation Based Speedometer and Compass
 
 _Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
 
-### [Day Twenty-Two](http://morettiamye.github.io/thirtydaydaysofjs/22/)
+### [Day Twenty-Two](http://morettiamye.github.io/thirtydaysofjs/22/)
 Follow Along Links
 
-### [Day Twenty-Three](http://morettiamye.github.io/thirtydaydaysofjs/23/)
+### [Day Twenty-Three](http://morettiamye.github.io/thirtydaysofjs/23/)
 The Voicienator 5000
 
-### [Day Twenty-Four](http://morettiamye.github.io/thirtydaydaysofjs/24/)
+### [Day Twenty-Four](http://morettiamye.github.io/thirtydaysofjs/24/)
 Sticky Nav Bar
 
-### [Day Twenty-Five](http://morettiamye.github.io/thirtydaydaysofjs/25/)
+### [Day Twenty-Five](http://morettiamye.github.io/thirtydaysofjs/25/)
 ---
 
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
