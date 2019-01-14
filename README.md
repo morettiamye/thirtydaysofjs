@@ -85,6 +85,10 @@ Sticky Nav Bar
 ### [Day Twenty-Five](http://morettiamye.github.io/thirtydaysofjs/25/)
 Event Capture, Propagation, Bubbling and Once
 
+### [Day-Twenty-Six](http://morettiamye.github.io/thirtydaysofjs/26/)
+Follow Along Dropdowns
+
+
 ---
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
 
