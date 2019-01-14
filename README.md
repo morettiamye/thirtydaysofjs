@@ -60,18 +60,15 @@ Tally String Times with Reduce
 
 ### [Day Nineteen](http://morettiamye.github.io/thirtydaysofjs/19/)
 Webcam Fun
-
-_Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
+######Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work.
 
 ### [Day Twenty](http://morettiamye.github.io/thirtydaysofjs/20/)
 Native Speech Recognition
-
-_Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
+###### Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work.
 
 ### [Day Twenty-One](http://morettiamye.github.io/thirtydaysofjs/21/)
 Geolocation Based Speedometer and Compass
-
-_Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work._
+###### Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work.
 
 ### [Day Twenty-Two](http://morettiamye.github.io/thirtydaysofjs/22/)
 Follow Along Links
