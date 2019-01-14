@@ -60,7 +60,7 @@ Tally String Times with Reduce
 
 ### [Day Nineteen](http://morettiamye.github.io/thirtydaysofjs/19/)
 Webcam Fun
-######Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work.
+###### Please note: this needs to be cloned to your your computer and then  `npm install` and then `npm start` in order to work.
 
 ### [Day Twenty](http://morettiamye.github.io/thirtydaysofjs/20/)
 Native Speech Recognition
