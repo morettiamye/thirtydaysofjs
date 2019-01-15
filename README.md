@@ -85,6 +85,19 @@ Event Capture, Propagation, Bubbling and Once
 ### [Day-Twenty-Six](http://morettiamye.github.io/thirtydaysofjs/26/)
 Follow Along Dropdowns
 
+### [Day-Twenty-Seven](http://morettiamye.github.io/thirtydaysofjs/27/)
+Click and Drag to Scroll
+
+### [Day-Twenty-Eight](http://morettiamye.github.io/thirtydaysofjs/28/)
+Video Speed Controller
+
+### [Day-Twenty-Nine](http://morettiamye.github.io/thirtydaysofjs/29/)
+Countdown Clock
+
+### [Day-Thirty](http://morettiamye.github.io/thirtydaysofjs/30/)
+Whack a Mole!
+
+
 
 ---
 Want to learn Javascript?  [Check out the challenge!](https://javascript30.com/)
